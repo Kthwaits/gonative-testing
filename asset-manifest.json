@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/gonative-testing/static/css/main.073c9b0a.css",
-    "main.js": "/gonative-testing/static/js/main.5bf5840f.js",
+    "main.css": "/gonative-testing/static/css/main.04179b6f.css",
+    "main.js": "/gonative-testing/static/js/main.858b4016.js",
     "static/js/787.a4640f8c.chunk.js": "/gonative-testing/static/js/787.a4640f8c.chunk.js",
-    "static/media/logo.svg": "/gonative-testing/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/gonative-testing/index.html",
-    "main.073c9b0a.css.map": "/gonative-testing/static/css/main.073c9b0a.css.map",
-    "main.5bf5840f.js.map": "/gonative-testing/static/js/main.5bf5840f.js.map",
+    "main.04179b6f.css.map": "/gonative-testing/static/css/main.04179b6f.css.map",
+    "main.858b4016.js.map": "/gonative-testing/static/js/main.858b4016.js.map",
     "787.a4640f8c.chunk.js.map": "/gonative-testing/static/js/787.a4640f8c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.5bf5840f.js"
+    "static/css/main.04179b6f.css",
+    "static/js/main.858b4016.js"
   ]
 }
