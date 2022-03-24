@@ -1,8 +1,21 @@
-import Lottie from "lottie-react";
+import Lottie from "react-lottie";
 import robotHello from "./robotHello.json";
 
-const Animation = () => {
-    return <Lottie animationData={robotHello} loop={true}/>
-};
+function Animation() {
+    const defaultOptions = {
+       loop: true,
+       autoplay: true,
+       animationData: robotHello,
+       rendererSettings: {
+          preserveAspectRatio: "xMidYMid slice",
+       },
+    };
+ 
+    return (
+       <div>
+          <Lottie options={defaultOptions} height={400} width={400} />
+       </div>
+    );
+ }
 
 export default Animation;

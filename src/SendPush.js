@@ -12,7 +12,7 @@ export function sendPush() {
             "headings": {
                 "en": "WOO HOO! 🎉"
             },
-            "included_segments": "Test Users",
+            "included_segments": "Active Users",
             "app_id": "4a35326f-ac38-4965-bfc0-bb3bdd36d34c",
             "contents": {
                 "en": "If you can see this, the test notification worked"
