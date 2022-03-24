@@ -13,7 +13,7 @@ function Animation() {
  
     return (
        <div>
-          <Lottie options={defaultOptions} height={400} width={400} />
+          <Lottie options={defaultOptions} />
        </div>
     );
  }
